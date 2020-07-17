@@ -1,0 +1,183 @@
+/*TODO: Add a background color or image to your website*/
+body {
+  background-color: #FCFAF9;
+}
+h1 {
+  color: white;
+}
+.active {
+  display: flex;
+  color: #5E5E5E;
+  text-decoration: none;
+  font-family: "Quicksand", sans-serif;
+  margin: 20px;
+  padding: 20px;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  font-size: 3vh;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.active:hover {
+  background-color: #FCFAF9;
+  border-radius: 20px;
+  padding: 10px 10px;
+  line-height: 50px;
+}
+#navie {
+  background-color: #FCEEF1;
+  height: 120px;
+}
+
+.intro {
+  font-family: "Quicksand", sans-serif;
+  color: #5E5E5E;
+  margin-inline-start: 700px;
+  margin-inline-end: 200px;
+  font-size: 2em;
+  margin-block-end: 0.83em;
+  margin-block-start: 4em;
+}
+.strawberry {
+  margin-inline-start: 240px;
+  margin-block-start: -8em;
+}
+.gwc {
+  border: 10px solid #FCEEF1;
+  border-radius: 20px;
+  padding: 30px;
+  font-family: "Quicksand", sans-serif;
+  color: #5E5E5E;
+  margin-inline-start: 47.5%;
+  margin-inline-end: 200px;
+  width: 500px;
+  font-size: 1.7em;
+  margin-block-end: 0.8em;
+  margin-block-start: -7em;
+}
+.line {
+  margin-block-start: 4em;
+}
+.clouds {
+  width: 1000px;
+}
+.boxie {
+  display: flex;
+  flex: 1;
+  font-family: "Quicksand", sans-serif;
+  color: #ADADAD;
+  margin-inline-start: 200px;
+  margin-inline-end: 300px;
+  margin-block-end: 0.8em;
+  margin-block-start: -14em;
+  font-size: 2em;
+}
+#bloggie {
+  display: flex;
+  flex: 1;
+  border-style: solid;
+  border-color: #f3f1f3;
+  background: white;
+  height: 70px;
+  width: 160px;
+  border-radius: 20px;
+  padding: 30px 60px;
+  line-height: 60px;
+}
+#folio {
+  display: flex;
+  flex: 1;
+  border-style: solid;
+  border-color: #f3f1f3;
+  background: white;
+  height: 70px;
+  width: 280px;
+  border-radius: 20px;
+  padding: 30px 60px;
+  line-height: 60px;
+}
+.labels {
+  display: flex;
+  flex: 1;
+  font-family: "Quicksand", sans-serif;
+  color: #ADADAD;
+  margin-inline-start: 15%;
+  margin-block-end: 0.8em;
+  margin-block-start: -10%;
+  font-size: 2em;
+}
+#projects {
+  color: #77152A;
+}
+#coding {
+  color: #F7D0D8;
+}
+#inform {
+  color: #EC94A7;
+}
+#pro {
+  color: #D0254A;
+}
+.labels2 {
+  font-family: "Quicksand", sans-serif;
+  color: #ADADAD;
+    margin-inline-start: 70%;
+  margin-inline-end: 200px;
+  margin-block-end: 0.8em;
+  margin-block-start: -2em;
+  font-size: 2em;
+  line-height: 2.4;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.glitch-embed-wrap{
+  margin-inline-start: 400px;
+  margin-block-start: 11em;
+}
+#sip {
+  display: flex;
+  justify-content: center;
+  border: 10px solid #FCEEF1;
+  border-radius: 20px;
+  padding: 30px;
+  font-family: "Quicksand", sans-serif;
+  color: #5E5E5E;
+  margin-inline-start: 10%;
+  width: 500px;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-block-end: 1em;
+  margin-block-start: -6em;
+}
+.construction {
+  border: 10px solid #FCEEF1;
+  background-color: #FCEEF1;
+  border-radius: 20px;
+  padding: 30px;
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+  color: white;
+  font-weight: bold;
+  margin-inline-start: 500px;
+  width: 500px;
+  height: 95px;
+  font-size: 1.7em;
+  margin-block-start: 7em;
+}
+
+.personal-website img{
+  width: 50%;
+  height: 50%;
+  margin: 0px 0px 0px 400px;
+  padding: 200px 0px 0px 0px;
+}
+#act{
+  font-weight: bold;
+  font-size: 2em;
+  margin: 0px 0px 0px 400px;
+}
